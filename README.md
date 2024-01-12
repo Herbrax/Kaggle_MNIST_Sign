@@ -1,4 +1,4 @@
-# Kaggle Competition 2 - Pierre-Antoine Bernard & Simo Hakim - 20096040 
+# Kaggle Competition 2 - Pierre-Antoine Bernard & Simo Hakim - 20096040 - Course IFT3395/6390A - Université de Montréal
 
 ## Overview
 This set of Jupyter notebooks, "CNN-XGBOOST.ipynb" and "RandomForest.ipynb", is designed for the Kaggle competition 2 of the class IFT3395/6390A. These notebooks utilize Convolutional Neural Networks (CNN), XGBoost, and a custom Random Forest Classifier.
@@ -85,7 +85,7 @@ For both models, the data handling process involves loading the data and preproc
 
 ----------------------------
 
-# README pour la Compétition Kaggle : Techniques Avancées d'Apprentissage Automatique
+# Kaggle Competition 2 - Pierre-Antoine Bernard & Simo Hakim - 20096040 - Cours IFT3395/6390A - Université de Montréal
 
 ## Aperçu
 Cet ensemble de notebooks, "CNN-XGBOOST.ipynb" et "RandomForest.ipynb", estsont conçus pour la compétition Kaggle 2 du cours IFT3395/6390A. Ces notebooks utilisent des CNNs, XGBoost, et un classificateur Random Forest que l'on à implémenté.
